@@ -1,7 +1,7 @@
 ---
 
 # 🌏 About Me | 自己紹介 | À propos de moi
-
+[Click here for my CV!](/Benjamin_Basanta_CV.pdf)
 ---
 
 ## 🇬🇧 **English**
